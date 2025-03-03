@@ -1,8 +1,5 @@
 # Stock Market Prediction with LSTM and Candlestick Visualization
 
-![Candlestick Chart Example](https://via.placeholder.com/600x300.png?text=Candlestick+Chart+Preview)  
-*Sample candlestick chart (replace with an actual screenshot of your graph)*
-
 ## Overview
 This project is a machine learning-based stock market prediction system that uses a Long Short-Term Memory (LSTM) neural network to forecast stock prices. It supports multiple Indian stocks (e.g., RELIANCE, TCS, INFY) and provides a user-friendly interface to predict future closing prices for a specified number of days. The predictions are visualized in a professional candlestick chart format, mimicking real stock market platforms, complete with historical data and volume bars.
 
@@ -118,7 +115,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
    git add README.md
    git commit -m "Add README.md"
    git push origin main
-   ```
-   Replace `main` with your branch name if different.
 
-This README will look great on your GitHub repo at `https://github.com/kokatesaurabh/stock-market-prediction`. Let me know if you’d like to adjust anything!
