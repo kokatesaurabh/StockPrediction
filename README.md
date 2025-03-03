@@ -1,6 +1,3 @@
-Below is the GitHub README content formatted as a `README.md` file, customized with your GitHub username `kokatesaurabh`. You can copy this directly into a `README.md` file in your repository.
-
-```markdown
 # Stock Market Prediction with LSTM and Candlestick Visualization
 
 ![Candlestick Chart Example](https://via.placeholder.com/600x300.png?text=Candlestick+Chart+Preview)  
