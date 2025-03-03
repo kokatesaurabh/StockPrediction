@@ -98,21 +98,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Acknowledgments
 - Built with Python, TensorFlow, and mplfinance.
 - Inspired by stock market analysis tools and trading platforms.
-```
 
-### Instructions:
-1. **Create the File**:
-   - Copy this content into a file named `README.md` in your repository’s root directory.
-2. **Add a Screenshot**:
-   - Run your code to generate a candlestick chart, take a screenshot, and save it as `chart_preview.png` (or similar) in your repo.
-   - Upload it to GitHub and update the image URL in the README:
-     ```markdown
-     ![Candlestick Chart Example](chart_preview.png)
-     ```
-     Or use an external link if hosted elsewhere.
-3. **Push to GitHub**:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md"
-   git push origin main
+
 
